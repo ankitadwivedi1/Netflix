@@ -1,3 +1,6 @@
+# Netlify link for Preview 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab3a555e-05f5-4d1d-849a-b6aa31b2bd3e/deploy-status)](https://app.netlify.com/projects/streamflix123/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
